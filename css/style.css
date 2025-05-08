@@ -6,6 +6,11 @@ h1 {
   color: #f7f7f7;
 }
 
-hr {
+hr,
+p {
   color: #f7f7f7;
+}
+
+profile-blockquote {
+  font-size: 12px;
 }
